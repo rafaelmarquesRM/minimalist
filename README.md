@@ -1,3 +1,3 @@
 # minimalist
 Minimalist Css Framework
-<br> rafaelmarqueiz.github.io/minimalist
+<br> https://rafaelmarqueiz.github.io/minimalist
