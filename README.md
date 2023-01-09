@@ -1,3 +1,4 @@
-# minimalist
+# Minimalist
+Tentativa de fazer um framework css bem básico
 Minimalist Css Framework
-<br> https://rafitamqs.github.io/minimalist
+<br> https://rafaelmarquesrm.github.io/minimalist
